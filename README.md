@@ -1,4 +1,5 @@
-[![IMG_8046](https://github.com/user-attachments/assets/54501be1-ad30-4148-b94e-281ade1aef72)](https://www.notion.so/image/attachment%3A0669663e-977e-4570-a340-60d00e00dcc6%3AHUFS_DAT_5th.002.jpeg?table=block&id=19c51d5e-8641-80f5-8728-e327cc3eb015&spaceId=ac90e89d-d931-47d8-87d8-f44362b72eeb&width=2000&userId=1a8d872b-594c-816c-94f2-000249c70900&cache=v2)
+![image](https://github.com/user-attachments/assets/74658a5f-692c-4a6d-b3fb-da04a01c0670)
+
 
 ## 2025-1_Seminar
 2025년 1학기 정기 세션 및 실습 기록입니다.
