@@ -11,22 +11,33 @@
 |:---:|:---:|:---:|
 |03/06|OT|백년관|
 |03/13|1차 정기세션|백년관|
+|03/14~15|MT||
 |03/20|2차 정기세션|백년관|
 |03/27|3차 정기세션|백년관|
+|04/03|4차 정기세션||
+|04/06|논문 스터디 제출 (1)||
+|04/10|5차 정기세션||
+|05/01|6차 정기세션||
+|05/08|7차 정기세션||
+|05/15|8차 정기세션||
+|05/22|9차 정기세션||
+|05/25|논문 스터디 제출 (2)||
+|05/29|10차 정기세션||
+|06/05|제 5회 캡스톤 대회||
 
 ## Tools
 <div align="center">
-	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=yellow" />
-	<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white" />
+	<a href=https://www.python.org/><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=yellow" /></a>
+	<a href=https://www.r-project.org/><img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white" /></a>
 </div>
 
 <div align="center">
-	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
-	<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=orange" />
+	<a href=https://www.notion.com/ko/product><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" /></a>
+	<a href=https://slack.com/intl/ko-kr><img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=orange" /></a>
 </div>
 
 <div align="center">
-	<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white" />
+	<a href=https://github.com/HUFS-DAT/2025-1_Seminar><img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white" /></a>
 </div>
 
 ***
