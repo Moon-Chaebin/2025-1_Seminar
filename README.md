@@ -58,7 +58,8 @@
 <div align="center">
 	<a href=https://linktr.ee/dat0406><img src="https://simpleicons.org/icons/linktree.svg&logo=Linktree&logoColor=43E55E" /></a>
  	<a href=https://www.instagram.com/dat.hufs/><img src="https://simpleicons.org/icons/instagram.svg&logo=instagram&logoColor=FF0069" /></a>
-
+<img alt="linktree" src ="https://simpleicons.org/icons/linktree.svg&style=flat-square&logo=Linktree&logoColor=43E55E"/>
+</div>
 ***
 ## 이전 세미나 Previous Seminar
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HUFS-DAT&repo=2024-2_Seminar)
