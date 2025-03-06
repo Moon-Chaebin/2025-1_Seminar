@@ -58,6 +58,7 @@
 <div align="center">
 	<img alt="instagram" src ="https://img.shields.io/badge/instagram-FF0069.svg?&style=flat-square&logo=instagram&logoColor=white"/>
 	<img alt="linktree" src ="https://img.shields.io/badge/linktree-43E55E.svg?&style=flat-square&logo=linktree&logoColor=white"/>
+</div>
 
 ***
 ## 이전 세미나 Previous Seminar
