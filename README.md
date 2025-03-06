@@ -58,10 +58,9 @@
 <div align="center">
 	<a href=https://www.instagram.com/dat.hufs/><img src="https://img.shields.io/badge/instagram-FF0069.svg?&logo=instagram&logoColor=white" /></a>
 	<a href=https://www.linktr.ee/dat0406><img src="https://img.shields.io/badge/linktree-43E55E.svg?&logo=linktree&logoColor=white" /></a>
-[Contact us by e-mail](mailto:dat@hufs.ac.kr)
 </div>
 
-
+[Contact us by e-mail](mailto:dat@hufs.ac.kr)
 
 ***
 ## 이전 세미나 Previous Seminar
