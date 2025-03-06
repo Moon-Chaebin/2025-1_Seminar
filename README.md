@@ -56,8 +56,8 @@
 ## 학회 정보
 
 <div align="center">
-	<a href=https://linktr.ee/dat0406><img src="https://simpleicons.org/icons/linktree.svg&logo=Linktree&logoColor=#43E55E" /></a>
- 	<a href=https://www.instagram.com/dat.hufs/><img src="https://simpleicons.org/icons/instagram.svg&logo=instagram&logoColor=#FF0069" /></a>
+	<a href=https://linktr.ee/dat0406><img src="https://simpleicons.org/icons/linktree.svg&logo=Linktree&logoColor=43E55E" /></a>
+ 	<a href=https://www.instagram.com/dat.hufs/><img src="https://simpleicons.org/icons/instagram.svg&logo=instagram&logoColor=FF0069" /></a>
 
 ***
 ## 이전 세미나 Previous Seminar
